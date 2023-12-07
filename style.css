@@ -1,0 +1,21 @@
+.heading {
+
+    width: 80%;
+    font-size: 16px;
+    }
+    body{
+        color: turquoise;
+        background:rgb(94, 0, 128);
+    }
+    .name_of_objects{
+        color:aqua;
+    }
+    #camera, #result{
+        border:2px solid yellow;
+        width:350px;
+        height:300px;
+    
+    }
+    #result_object_name, #result_object_accuracy{
+    color:lime
+    }
